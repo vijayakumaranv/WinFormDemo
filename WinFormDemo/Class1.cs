@@ -8,6 +8,6 @@ namespace WinFormDemo
 {
     class Class1
     {
-
+        int j = 0;
     }
 }
